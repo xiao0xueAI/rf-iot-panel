@@ -10,16 +10,6 @@
       "size": 619001,
       "notes": "升级被回滚时会明确提示（原来会误显示为成功），并给出原因。",
       "minServer": "0.9.12"
-    },
-    {
-      "version": "0.9.21",
-      "url": "https://github.com/xiao0xueAI/rf-iot-panel/releases/download/panel-v0.9.21/panel-0.9.21.json",
-      "urlApi": "https://api.github.com/repos/xiao0xueAI/rf-iot-panel/releases/assets/684186539",
-      "sha256": "F119A54041D20C1BE9BEE489B260C217A1AE682C61964A7E37453B00D268FDA5",
-      "sig": "7500B41A6D49317E707624E601FF9432C877B380BDEAD26A6EFCF5AD6BB47A19D478D5E44D738DCE2166B1CCCE9EC8D948C034C66A9D7D1F6B5DB8F81C5858BB",
-      "size": 616445,
-      "notes": "更新面板时会显示下载进度，不再干等。",
-      "minServer": "0.9.12"
     }
   ]
 }
