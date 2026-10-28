@@ -10,16 +10,6 @@
       "size": 616445,
       "notes": "更新面板时会显示下载进度，不再干等。",
       "minServer": "0.9.12"
-    },
-    {
-      "version": "0.9.20",
-      "url": "https://github.com/xiao0xueAI/rf-iot-panel/releases/download/panel-v0.9.20/panel-0.9.20.json",
-      "urlApi": "https://api.github.com/repos/xiao0xueAI/rf-iot-panel/releases/assets/684180642",
-      "sha256": "40AA952280DF988B4869970AB9B8F7C3CA346FA94721DB8551CF640D2A73332A",
-      "sig": "A1F4DFB909C683008253D6FF971E7A2288A2BD6E21726054045150BEC92605AAA7ABC5C2AB1DCD6BC932E98BCA460AF1324BECB0B748340831B7166BD6ACE094",
-      "size": 614265,
-      "notes": "升级完成后会明确告诉结果（从哪个版本到哪个版本），刷新也不会丢；网络抖动自动重试时不再误报失败。",
-      "minServer": "0.9.12"
     }
   ]
 }
