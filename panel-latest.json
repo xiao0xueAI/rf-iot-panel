@@ -10,16 +10,6 @@
       "size": 609581,
       "notes": "更新提示更清楚：可以直接查看这一版改了什么，再决定什么时候更新；侧边栏能看到面板版本并手动检查。",
       "minServer": "0.9.12"
-    },
-    {
-      "version": "0.9.16",
-      "url": "https://github.com/xiao0xueAI/rf-iot-panel/releases/download/panel-v0.9.16/panel-0.9.16.json",
-      "urlApi": "https://api.github.com/repos/xiao0xueAI/rf-iot-panel/releases/assets/684096279",
-      "sha256": "19BA455A3A30147F6CBCBF3517BC65A964B306EF783D1D7DE7A54671DA425160",
-      "sig": "EEDDA7BBDE726B4165AA60F2EACE16355D8E0E22D203CF98B1EC2A90CEFEC92EF55D12313A80529DFFF2CDF9BAC81754A34F89DCECFB9AB134FD927F96BC48F5",
-      "size": 606821,
-      "notes": "更新提示更清楚：明确是面板更新，可以先看说明再决定什么时候更新。",
-      "minServer": "0.9.12"
     }
   ]
 }
