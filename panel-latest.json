@@ -1,6 +1,16 @@
 {
-  "latest": "0.9.22",
+  "latest": "0.9.23",
   "packages": [
+    {
+      "version": "0.9.23",
+      "url": "https://github.com/xiao0xueAI/rf-iot-panel/releases/download/panel-v0.9.23/panel-0.9.23.json",
+      "urlApi": "https://api.github.com/repos/xiao0xueAI/rf-iot-panel/releases/assets/688007689",
+      "sha256": "BD7B381FA16EC4E00B304234B6862ABBDBA898A03816A0C15A0A75A31F5BAB06",
+      "sig": "21FD2FB47F6A9A28C79743F29D72E8C1FA3A622A2C00D56076AD6C538E56077C7C142EC214F9B171242DF77DFD1FDB7B2298B3F5D2B0026EA0407270DFA8B711",
+      "size": 620525,
+      "notes": "设备离线时不再显示",
+      "minServer": "0.9.12"
+    },
     {
       "version": "0.9.22",
       "url": "https://github.com/xiao0xueAI/rf-iot-panel/releases/download/panel-v0.9.22/panel-0.9.22.json",
