@@ -1,6 +1,16 @@
 {
-  "latest": "0.9.34",
+  "latest": "0.9.35",
   "packages": [
+    {
+      "version": "0.9.35",
+      "url": "https://github.com/xiao0xueAI/rf-iot-panel/releases/download/panel-v0.9.35/panel-0.9.35.json",
+      "urlApi": "https://api.github.com/repos/xiao0xueAI/rf-iot-panel/releases/assets/691191539",
+      "sha256": "F48EE4C283BECB60A950A3768AAD3D094EF26AC0988238D571722AE6C673F069",
+      "sig": "438328835CFF0468B3A6B82335CB286DAD6ECB2C404E6B162E66645A9499BEF0145FEB25877D76AFF7456045BAC2E52929DEB4C72434218E97C159D62E242F19",
+      "size": 630409,
+      "notes": "遥控网关：折叠箭头更明显，分组缩进收紧避免元信息折行。",
+      "minServer": "0.9.12"
+    },
     {
       "version": "0.9.34",
       "url": "https://github.com/xiao0xueAI/rf-iot-panel/releases/download/panel-v0.9.34/panel-0.9.34.json",
@@ -89,16 +99,6 @@
       "sig": "302E54A55A711B5C922456EA39B3CAB8D8206956C4208F78E3DCCA6C8C2ED094A544C80C386E304B2E1FF6278FDF663E26455CC29936C9CD55742D1221BC7731",
       "size": 622541,
       "notes": "设备版本先显示，不再等更新源；离线设备显示上次已知版本；更新源变慢时不再一直转圈。",
-      "minServer": "0.9.12"
-    },
-    {
-      "version": "0.9.25",
-      "url": "https://github.com/xiao0xueAI/rf-iot-panel/releases/download/panel-v0.9.25/panel-0.9.25.json",
-      "urlApi": "https://api.github.com/repos/xiao0xueAI/rf-iot-panel/releases/assets/688028433",
-      "sha256": "BA6A25EBCBB953A13439A82A2A7653CE19FBED2DC42E15A6CB93C483AB9E6F43",
-      "sig": "8DCA79B15DCF096EDC629E6FF5E745965151F82082BD9A68EAD45BF398A0BA59A0E30379B8D4C17C1B5FCFDE6470679F1D25D2AB508BB5BE54E84C4422797729",
-      "size": 622461,
-      "notes": "设备版本先显示，不再等更新源；离线设备显示上次已知版本而不是已是最新；更新源变慢时不再让卡片一直转圈。",
       "minServer": "0.9.12"
     }
   ]
