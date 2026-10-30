@@ -1,6 +1,16 @@
 {
-  "latest": "0.9.38",
+  "latest": "0.9.39",
   "packages": [
+    {
+      "version": "0.9.39",
+      "url": "https://github.com/xiao0xueAI/rf-iot-panel/releases/download/panel-v0.9.39/panel-0.9.39.json",
+      "urlApi": "https://api.github.com/repos/xiao0xueAI/rf-iot-panel/releases/assets/691241132",
+      "sha256": "CE489330B76B0C20F74B9DD4D0ECACE4513877C52DA3FE8F332E4C3041B26E9A",
+      "sig": "CF08EB0569111E0C3D3354E94026106D08AFCA68F12D41AAD666B379F5F8F58FFEF38DBC98BE88E3863B2B993E7C6C6EB1D240C0734009AD7AE7308B797ABBDF",
+      "size": 632013,
+      "notes": "拷贝遥控器弹窗文案同步成两项（分不清时选 EV1527）。",
+      "minServer": "0.9.12"
+    },
     {
       "version": "0.9.38",
       "url": "https://github.com/xiao0xueAI/rf-iot-panel/releases/download/panel-v0.9.38/panel-0.9.38.json",
@@ -89,16 +99,6 @@
       "sig": "CD361BBDFAD067AAC8FBE2DFEF18747207691CCC253A293D7B25A0D8D4C61AF7EFBF88FECF9D6601E56542FCA25866BE52365BD091D91A001F3FC668F53A207A",
       "size": 624025,
       "notes": "设备表排版调整：名称完整显示，表格不再撑出卡片。",
-      "minServer": "0.9.12"
-    },
-    {
-      "version": "0.9.29",
-      "url": "https://github.com/xiao0xueAI/rf-iot-panel/releases/download/panel-v0.9.29/panel-0.9.29.json",
-      "urlApi": "https://api.github.com/repos/xiao0xueAI/rf-iot-panel/releases/assets/690823071",
-      "sha256": "75550D41EA62B663CEDC31D0E998F92F22DD46E102F70FE2622DF3303EE34332",
-      "sig": "946748635A5E95AD2E3C64E3C6E9E1D8286A67DD5CE9F4B7388A5C692D02DD5ED00CE91808D3C1A209665B6A5FEA7B46BA6C44308CAB18715F4A88A8C035CBCA",
-      "size": 623781,
-      "notes": "设备表排版微调：类型和操作按钮不再折行。",
       "minServer": "0.9.12"
     }
   ]
