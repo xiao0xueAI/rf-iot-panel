@@ -1,6 +1,16 @@
 {
-  "latest": "0.9.27",
+  "latest": "0.9.28",
   "packages": [
+    {
+      "version": "0.9.28",
+      "url": "https://github.com/xiao0xueAI/rf-iot-panel/releases/download/panel-v0.9.28/panel-0.9.28.json",
+      "urlApi": "https://api.github.com/repos/xiao0xueAI/rf-iot-panel/releases/assets/690821216",
+      "sha256": "B004BAFDCC86DCDA1D0C56ABD5BE5D4467F37CC1364AC1E3E4B01FE86F86AF23",
+      "sig": "DA028A87237E1DB0B6C0A95E9A96121C44C4B2A8E59694120CFFDB7DD9D81738E657414775640B80E2B48921F599C0904CD99CA306734EA3BB22B41986B83E64",
+      "size": 623101,
+      "notes": "设备名称较长时完整显示（原来会被输入框截断）。",
+      "minServer": "0.9.12"
+    },
     {
       "version": "0.9.27",
       "url": "https://github.com/xiao0xueAI/rf-iot-panel/releases/download/panel-v0.9.27/panel-0.9.27.json",
