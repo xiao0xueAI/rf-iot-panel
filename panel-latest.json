@@ -1,6 +1,16 @@
 {
-  "latest": "0.9.31",
+  "latest": "0.9.32",
   "packages": [
+    {
+      "version": "0.9.32",
+      "url": "https://github.com/xiao0xueAI/rf-iot-panel/releases/download/panel-v0.9.32/panel-0.9.32.json",
+      "urlApi": "https://api.github.com/repos/xiao0xueAI/rf-iot-panel/releases/assets/690829003",
+      "sha256": "0B95C290B4228AFC8FA457B2990944038C5CDC84AB52C5F3726DC7C79BD8724C",
+      "sig": "6586652FB9C901F4CEA99D9E30064347B6F8F00284AD4A093718DBA622993D049A16BE7B0AD48E6CEC4AD3F23344EF15272170BDD653887417A3B9476D6FC7C4",
+      "size": 624757,
+      "notes": "设备表更紧凑：名称完整显示，操作列不再被挤出卡片。",
+      "minServer": "0.9.12"
+    },
     {
       "version": "0.9.31",
       "url": "https://github.com/xiao0xueAI/rf-iot-panel/releases/download/panel-v0.9.31/panel-0.9.31.json",
@@ -89,16 +99,6 @@
       "sig": "21FD2FB47F6A9A28C79743F29D72E8C1FA3A622A2C00D56076AD6C538E56077C7C142EC214F9B171242DF77DFD1FDB7B2298B3F5D2B0026EA0407270DFA8B711",
       "size": 620525,
       "notes": "设备离线时不再显示",
-      "minServer": "0.9.12"
-    },
-    {
-      "version": "0.9.22",
-      "url": "https://github.com/xiao0xueAI/rf-iot-panel/releases/download/panel-v0.9.22/panel-0.9.22.json",
-      "urlApi": "https://api.github.com/repos/xiao0xueAI/rf-iot-panel/releases/assets/684371862",
-      "sha256": "4688285366993EDA3AC61A2FC5C890E6EF772A9C6E4BB185CC2AF6616B402E6F",
-      "sig": "129D917179293A246F678B7D4FFEA197B981201A09782AE3708D525EC12D80FDD42D262E68428CEE5ADF658F014335BA4C8F0D08F952232CDEE6EF0C705583F5",
-      "size": 619001,
-      "notes": "升级被回滚时会明确提示（原来会误显示为成功），并给出原因。",
       "minServer": "0.9.12"
     }
   ]
