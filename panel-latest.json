@@ -1,6 +1,16 @@
 {
-  "latest": "0.9.29",
+  "latest": "0.9.30",
   "packages": [
+    {
+      "version": "0.9.30",
+      "url": "https://github.com/xiao0xueAI/rf-iot-panel/releases/download/panel-v0.9.30/panel-0.9.30.json",
+      "urlApi": "https://api.github.com/repos/xiao0xueAI/rf-iot-panel/releases/assets/690825642",
+      "sha256": "57FA10BCAE2194D05B2F30E7E35485084465DC471F6E4F887EF1D19A8027039F",
+      "sig": "CD361BBDFAD067AAC8FBE2DFEF18747207691CCC253A293D7B25A0D8D4C61AF7EFBF88FECF9D6601E56542FCA25866BE52365BD091D91A001F3FC668F53A207A",
+      "size": 624025,
+      "notes": "设备表排版调整：名称完整显示，表格不再撑出卡片。",
+      "minServer": "0.9.12"
+    },
     {
       "version": "0.9.29",
       "url": "https://github.com/xiao0xueAI/rf-iot-panel/releases/download/panel-v0.9.29/panel-0.9.29.json",
