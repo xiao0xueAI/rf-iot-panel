@@ -1,6 +1,16 @@
 {
-  "latest": "0.9.32",
+  "latest": "0.9.33",
   "packages": [
+    {
+      "version": "0.9.33",
+      "url": "https://github.com/xiao0xueAI/rf-iot-panel/releases/download/panel-v0.9.33/panel-0.9.33.json",
+      "urlApi": "https://api.github.com/repos/xiao0xueAI/rf-iot-panel/releases/assets/691183424",
+      "sha256": "1ED8222B28600A217D1C0093569079C1FD4695B341E83543F61B976E4EE5EEBA",
+      "sig": "9CD04F1753058C1876E57299F92E203ADFA985B2A6CFC628945FE5F3A8FDA216885FD5BCD2482B0A59A0CB9E789728D29E2762259F5801841FB98432725FC5A4",
+      "size": 628585,
+      "notes": "遥控网关页按网关分组：每台网关可折叠，遥控器只出现在自己的网关下面，不再全部平铺混在一起。",
+      "minServer": "0.9.12"
+    },
     {
       "version": "0.9.32",
       "url": "https://github.com/xiao0xueAI/rf-iot-panel/releases/download/panel-v0.9.32/panel-0.9.32.json",
@@ -89,16 +99,6 @@
       "sig": "EE4384B9326B6E609BAADD5E8E6F1C8CDF38A074F5644A6026BA9E1E5916D69D9AB21E4E07267C609DD96698003585084ABCDC48BABD3DE835CE20D78AA492D1",
       "size": 621161,
       "notes": "设备离线时不再显示已是最新版本，改成如实说明上次已知版本；同时修掉离线设备卡片一直停在正在检查更新的问题。",
-      "minServer": "0.9.12"
-    },
-    {
-      "version": "0.9.23",
-      "url": "https://github.com/xiao0xueAI/rf-iot-panel/releases/download/panel-v0.9.23/panel-0.9.23.json",
-      "urlApi": "https://api.github.com/repos/xiao0xueAI/rf-iot-panel/releases/assets/688007689",
-      "sha256": "BD7B381FA16EC4E00B304234B6862ABBDBA898A03816A0C15A0A75A31F5BAB06",
-      "sig": "21FD2FB47F6A9A28C79743F29D72E8C1FA3A622A2C00D56076AD6C538E56077C7C142EC214F9B171242DF77DFD1FDB7B2298B3F5D2B0026EA0407270DFA8B711",
-      "size": 620525,
-      "notes": "设备离线时不再显示",
       "minServer": "0.9.12"
     }
   ]
